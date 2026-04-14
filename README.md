@@ -3,6 +3,8 @@
 An interactive Excel-based sales dashboard that tracks product sales performance across regions, salespeople, and time periods for the year **2021**.
 
 ---
+![Sales_Dashboard_page-0001](https://github.com/user-attachments/assets/e205bf88-dccb-40e3-9666-3fcb7ece8b0d)
+
 
 
 ## 🗂️ Workbook Structure
